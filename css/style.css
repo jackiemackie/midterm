@@ -4,6 +4,8 @@
 @import url('html5reset.css');
 
 /* standard css for desktop browsers */
+/* html5 reset css file */
+@import url('html5reset.css');
 body { text-align: left;
 background-image: linear-gradient(180deg, #f9c, #9cf);
 	background-repeat: no-repeat center  center fixed;
