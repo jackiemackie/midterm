@@ -1,5 +1,8 @@
 
 
+/* html5 reset css file */
+@import url('html5reset.css');
+
 /* standard css for desktop browsers */
 body { text-align: left;
 background-image: linear-gradient(180deg, #f9c, #9cf);
